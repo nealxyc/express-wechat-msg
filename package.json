@@ -1,0 +1,19 @@
+{
+  "name": "wechat-msg",
+  "version": "0.0.1",
+  "description": "ExpressJS middleware for parsing Wechat message.",
+  "main": "wechat-msg.js",
+  "files": "wechat-msg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-shell": "^1.1.2",
+    "jasmine": "^2.2.1"
+  }
+}

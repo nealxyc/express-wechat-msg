@@ -1,0 +1,9 @@
+
+# build
+build
+
+# node stuff
+node_modules
+
+# jasmine-node stuff
+reports
